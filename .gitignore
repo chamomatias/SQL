@@ -1,0 +1,13 @@
+# Ignorar archivos de video
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.flv
+*.wmv
+*.webm
+*.m4v
+*.mpeg
+*.mpg
+*.3gp
+*.ogg
